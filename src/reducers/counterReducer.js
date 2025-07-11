@@ -1,4 +1,3 @@
-// src/reducers/counterReducer.js
 const initialState = {
   count: 0,
 };
